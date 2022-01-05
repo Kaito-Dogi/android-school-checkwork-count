@@ -43,6 +43,7 @@ https://user-images.githubusercontent.com/49048577/148212490-d385bb22-5e7d-414a-
 ## Lv. 4 カウントした値に応じて処理を分岐しよう
 
 ### アプリのスクショ
+https://user-images.githubusercontent.com/49048577/148216535-119af68a-3af1-432f-b77a-2d36d085f67f.mp4
 
 ### 手順
 1. プラスボタンを実装しよう
@@ -51,7 +52,7 @@ https://user-images.githubusercontent.com/49048577/148212490-d385bb22-5e7d-414a-
 1. `count` が15の倍数の時、数字の代わりに `FizzBuzz` と表示させよう
 
 ### サンプルコードと解説
-[Lv. 4 はこちら！]()
+[Lv. 4 はこちら！](https://github.com/Kaito-Dogi/android-school-checkwork-count-if)
 
 ## Lv. 5 カスタムクラスを作成しよう
 
