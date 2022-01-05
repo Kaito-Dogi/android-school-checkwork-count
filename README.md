@@ -1,7 +1,7 @@
 # チェックワーク 〜カウントアプリ〜
 
 ## 目次
-- [Lv. 1 プラスボタンを実装しよう](https://github.com/Kaito-Dogi/android-school-checkwork-count/tree/main#lv-1-プラスボタンを実装しよう)
+- [Lv. 1 プラスボタンを実装しよう](https://github.com/Kaito-Dogi/android-school-checkwork-count/#lv-1-プラスボタンを実装しよう)
 - [Lv. 2 マイナスボタンとリセットボタンを実装しよう](https://github.com/Kaito-Dogi/android-school-checkwork-count#lv-2-マイナスボタンとリセットボタンを実装しよう)
 - [Lv. 3 二つの値をカウントできるようにしよう](https://github.com/Kaito-Dogi/android-school-checkwork-count#lv-3-二つの値をカウントできるようにしよう)
 - [Lv. 4 カスタムクラスを作成しよう](https://github.com/Kaito-Dogi/android-school-checkwork-count#lv-4-カスタムクラスを作成しよう)
