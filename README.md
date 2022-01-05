@@ -1,13 +1,13 @@
 # チェックワーク 〜カウントアプリ〜
 
 ## 目次
-- [Lv. 1 プラスボタンを実装しよう](https://github.com/Kaito-Dogi/android-school-checkwork-count/tree/main#lv-1-%E3%83%97%E3%83%A9%E3%82%B9%E3%83%9C%E3%82%BF%E3%83%B3%E3%82%92%E5%AE%9F%E8%A3%85%E3%81%97%E3%82%88%E3%81%86)
-- [Lv. 2 マイナスボタンとリセットボタンを実装しよう](https://github.com/Kaito-Dogi/android-school-checkwork-count#lv-2-%E3%83%9E%E3%82%A4%E3%83%8A%E3%82%B9%E3%83%9C%E3%82%BF%E3%83%B3%E3%81%A8%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88%E3%83%9C%E3%82%BF%E3%83%B3%E3%82%92%E5%AE%9F%E8%A3%85%E3%81%97%E3%82%88%E3%81%86)
-- [Lv. 3 二つの値をカウントできるようにしよう](https://github.com/Kaito-Dogi/android-school-checkwork-count#lv-3-%E4%BA%8C%E3%81%A4%E3%81%AE%E5%80%A4%E3%82%92%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%97%E3%82%88%E3%81%86)
-- [Lv. 4 カスタムクラスを作成しよう](https://github.com/Kaito-Dogi/android-school-checkwork-count#lv-4-%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0%E3%82%AF%E3%83%A9%E3%82%B9%E3%82%92%E4%BD%9C%E6%88%90%E3%81%97%E3%82%88%E3%81%86)
-- [Ex. 1 クロージャを利用してみよう](https://github.com/Kaito-Dogi/android-school-checkwork-count#ex-1-%E3%82%AF%E3%83%AD%E3%83%BC%E3%82%B8%E3%83%A3%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86)
-- [Ex. 2 MVVMを導入してみよう](https://github.com/Kaito-Dogi/android-school-checkwork-count#ex-2-mvvm%E3%82%92%E5%B0%8E%E5%85%A5%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86)
-- [Ex. 3 Jetpack Composeを利用してみよう](https://github.com/Kaito-Dogi/android-school-checkwork-count#ex-3-jetpack-compose%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86)
+- [Lv. 1 プラスボタンを実装しよう](https://github.com/Kaito-Dogi/android-school-checkwork-count/tree/main#lv-1-プラスボタンを実装しよう)
+- [Lv. 2 マイナスボタンとリセットボタンを実装しよう](https://github.com/Kaito-Dogi/android-school-checkwork-count#lv-2-マイナスボタンとリセットボタンを実装しよう)
+- [Lv. 3 二つの値をカウントできるようにしよう](https://github.com/Kaito-Dogi/android-school-checkwork-count#lv-3-二つの値をカウントできるようにしよう)
+- [Lv. 4 カスタムクラスを作成しよう](https://github.com/Kaito-Dogi/android-school-checkwork-count#lv-4-カスタムクラスを作成しよう)
+- [Ex. 1 クロージャを利用してみよう](https://github.com/Kaito-Dogi/android-school-checkwork-count#ex-1-クロージャを利用してみよう)
+- [Ex. 2 MVVMを導入してみよう](https://github.com/Kaito-Dogi/android-school-checkwork-count#ex-2-mvvmを導入してみよう)
+- [Ex. 3 Jetpack Composeを利用してみよう](https://github.com/Kaito-Dogi/android-school-checkwork-count#ex-3-jetpack-composeを利用してみよう)
 
 ## Lv. 1 プラスボタンを実装しよう
 
