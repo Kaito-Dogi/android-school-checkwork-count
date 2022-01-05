@@ -12,7 +12,7 @@ https://user-images.githubusercontent.com/49048577/148199977-128a69db-c670-45eb-
 1. `plus_button`に`setOnClickListener`メソッドを実装して、`plus_button`を押すたびに`count`の値を1増やそう
 
 ### ソースコードと解説
-[Lv.1はこちら！]()
+[Lv. 1はこちら！]()
 
 ## Lv. 2 マイナスボタンとリセットボタンを実装しよう
 
