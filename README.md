@@ -6,13 +6,13 @@
 https://user-images.githubusercontent.com/49048577/148199977-128a69db-c670-45eb-bb07-6bd618fd8ec7.mp4
 
 ### 手順
-0. View Bindingの設定をしよう
-1. `Button`を配置して、idを`plus_button`と設定しよう
-1. Int型の変数`count`を宣言して、初期値として0を代入しよう
-1. `plus_button`に`setOnClickListener`メソッドを実装して、`plus_button`を押すたびに`count`の値を1増やそう
+0. View Binding の設定をしよう
+1. `Button` を配置して、idを `plus_button` と設定しよう
+1. Int型の変数 `count` を宣言して、初期値として0を代入しよう
+1. `plus_button` に `setOnClickListener` メソッドを実装して、 `plus_button` を押すたびに `count` の値を1増やそう
 
 ### ソースコードと解説
-[Lv. 1はこちら！]()
+[Lv. 1 はこちら！]()
 
 ## Lv. 2 マイナスボタンとリセットボタンを実装しよう
 
