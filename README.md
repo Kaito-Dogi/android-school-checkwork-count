@@ -12,7 +12,7 @@ https://user-images.githubusercontent.com/49048577/148199977-128a69db-c670-45eb-
 1. `plus_button` に `setOnClickListener` メソッドを実装して、 `plus_button` を押すたびに `count` の値を1増やそう
 
 ### ソースコードと解説
-[Lv. 1 はこちら！]()
+[Lv. 1 はこちら！](https://github.com/Kaito-Dogi/android-school-checkwork-count-plus-button)
 
 ## Lv. 2 マイナスボタンとリセットボタンを実装しよう
 
