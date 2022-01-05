@@ -11,7 +11,8 @@ https://user-images.githubusercontent.com/49048577/148199977-128a69db-c670-45eb-
 1. Int型の変数`count`を宣言して、初期値として0を代入しよう
 1. `plus_button`に`setOnClickListener`メソッドを実装して、`plus_button`を押すたびに`count`の値を1増やそう
 
-### [サンプルコードと解説]()
+### ソースコードと解説
+[Lv.1はこちら！]()
 
 ## Lv. 2 マイナスボタンとリセットボタンを実装しよう
 
