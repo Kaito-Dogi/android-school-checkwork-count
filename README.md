@@ -46,9 +46,9 @@ https://user-images.githubusercontent.com/49048577/148212490-d385bb22-5e7d-414a-
 
 ### 手順
 1. プラスボタンを実装しよう
-1. Int型の変数 `count` が3の倍数の時、`count_text` の文字の色を赤 `Color.RED` にしよう
-1. `count` が5の倍数の時、`count_text` の文字の色を緑 `Color.GREEN` にしよう
-1. `count` が15の倍数の時、`count_text` の文字の色を緑 `Color.BLUE` にしよう
+1. Int型の変数 `count` が3の倍数の時、数字の代わりに `Fizz` と表示させよう
+1. `count` が5の倍数の時、数字の代わりに `Buzz` と表示させよう
+1. `count` が15の倍数の時、数字の代わりに `FizzBuzz` と表示させよう
 
 ### サンプルコードと解説
 [Lv. 4 はこちら！]()
