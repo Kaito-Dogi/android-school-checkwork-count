@@ -17,7 +17,7 @@ https://user-images.githubusercontent.com/49048577/148199977-128a69db-c670-45eb-
 ## Lv. 2 マイナスボタンとリセットボタンを実装しよう
 
 ### アプリのスクショ
-スクショ
+https://user-images.githubusercontent.com/49048577/148207525-0d63ed19-6396-43ea-b6f6-575b87f52060.mp4
 
 ### 手順
 1. 新たに`Button`を2つ配置して、idを`minus_button`、`reset_button`と設定しよう
@@ -25,7 +25,7 @@ https://user-images.githubusercontent.com/49048577/148199977-128a69db-c670-45eb-
 1. `reset_button`に`setOnClickListener`メソッドを実装して、`reset_button`を押すたびに`count`の値を0にしよう
 
 ### サンプルコードと解説
-[Lv. 2 はこちら！]()
+[Lv. 2 はこちら！](https://github.com/Kaito-Dogi/android-school-checkwork-count-minus-reset)
 
 ## Lv. 3 二つの値をカウントできるようにしよう
 
