@@ -3,7 +3,7 @@
 ## Lv. 1 プラスボタンを実装しよう
 
 ### アプリのスクショ
-https://user-images.githubusercontent.com/49048577/148199571-fefb7a9d-c92f-47c1-9e9f-1e33eb0696da.mp4
+https://user-images.githubusercontent.com/49048577/148199977-128a69db-c670-45eb-bb07-6bd618fd8ec7.mp4
 
 ### 手順
 0. View Bindingの設定をしよう
@@ -11,8 +11,7 @@ https://user-images.githubusercontent.com/49048577/148199571-fefb7a9d-c92f-47c1-
 1. Int型の変数`count`を宣言して、初期値として0を代入しよう
 1. `plus_button`に`setOnClickListener`メソッドを実装して、`plus_button`を押すたびに`count`の値を1増やそう
 
-### サンプルコードと解説
-[Lv. 1 リンク]()
+### [サンプルコードと解説]()
 
 ## Lv. 2 マイナスボタンとリセットボタンを実装しよう
 
