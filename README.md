@@ -20,9 +20,9 @@ https://user-images.githubusercontent.com/49048577/148199977-128a69db-c670-45eb-
 https://user-images.githubusercontent.com/49048577/148207525-0d63ed19-6396-43ea-b6f6-575b87f52060.mp4
 
 ### 手順
-1. 新たに`Button`を2つ配置して、idを`minus_button`、`reset_button`と設定しよう
-1. `minus_button`に`setOnClickListener`メソッドを実装して、`minus_button`を押すたびに`count`の値を1減らそう
-1. `reset_button`に`setOnClickListener`メソッドを実装して、`reset_button`を押すたびに`count`の値を0にしよう
+1. 新たに `Button` を2つ配置して、idを `minus_button` 、 `reset_button` と設定しよう
+1. `minus_button` に `setOnClickListener` メソッドを実装して、 `minus_button` を押すたびに `count` の値を1減らそう
+1. `reset_button` に `setOnClickListener` メソッドを実装して、 `reset_button` を押すたびに `count` の値を0にしよう
 
 ### サンプルコードと解説
 [Lv. 2 はこちら！](https://github.com/Kaito-Dogi/android-school-checkwork-count-minus-reset)
@@ -45,6 +45,10 @@ https://user-images.githubusercontent.com/49048577/148212490-d385bb22-5e7d-414a-
 ### アプリのスクショ
 
 ### 手順
+1. プラスボタンを実装しよう
+1. Int型の変数 `count` が3の倍数の時、`count_text` の文字の色を赤 `Color.RED` にしよう
+1. `count` が5の倍数の時、`count_text` の文字の色を緑 `Color.GREEN` にしよう
+1. `count` が15の倍数の時、`count_text` の文字の色を緑 `Color.BLUE` にしよう
 
 ### サンプルコードと解説
 [Lv. 4 はこちら！]()
