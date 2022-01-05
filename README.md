@@ -3,7 +3,7 @@
 ## Lv. 1 プラスボタンを実装しよう
 
 ### アプリのスクショ
-スクショ
+https://user-images.githubusercontent.com/49048577/148199571-fefb7a9d-c92f-47c1-9e9f-1e33eb0696da.mp4
 
 ### 手順
 0. View Bindingの設定をしよう
