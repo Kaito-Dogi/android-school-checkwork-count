@@ -30,7 +30,7 @@ https://user-images.githubusercontent.com/49048577/148207525-0d63ed19-6396-43ea-
 ## Lv. 3 二つの値をカウントできるようにしよう
 
 ### アプリのスクショ
-スクショ
+https://user-images.githubusercontent.com/49048577/148212490-d385bb22-5e7d-414a-8a4d-1f9054ec8f9c.mp4
 
 ### 手順
 1. レイアウトを作成しよう
@@ -38,7 +38,7 @@ https://user-images.githubusercontent.com/49048577/148207525-0d63ed19-6396-43ea-
 1. ボタンをクリックした時の処理を実装しよう
 
 ### サンプルコードと解説
-[Lv. 3 はこちら！]()
+[Lv. 3 はこちら！](https://github.com/Kaito-Dogi/android-school-checkwork-count-multiple)
 
 ## Lv. 4 カウントした値に応じて処理を分岐しよう
 
