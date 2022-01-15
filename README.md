@@ -59,21 +59,32 @@ https://user-images.githubusercontent.com/49048577/148216535-119af68a-3af1-432f-
 ### アプリのスクショ
 スクショ
 
-### 手順
+### 手順1
 1. `Counter`クラスを作成しよう
-1. 整数を保持するためのプロパティ`number`を定義しよう
-1. `Counter`クラスをインスタンス化しよう
+1. 整数を保持するためのプロパティ`number`を定義して、初期値として0を代入しよう
+1. `Counter`クラスをインスタンス化して、変数 `counter` に代入しよう
 1. ボタンをクリックした時の処理を実装しよう
+1. 手順2に移ろう！
+
+### 手順2
+1. `number` の初期値を好きなように代入できるようにしよう
+1. `number` の値を更新するメソッドを定義しよう
+1. 定義したメソッドを呼び出して、 `number` の値を更新しよう
+1. 手順3に移ろう！
+
+### 手順3
+1. `companion object` を用いて、生成した `Counter` インスタンスの数を数えよう
+1. 手順4に移ろう！
+
+### 手順4
+1. `number` 値を直接変更できないようにしよう
+    - ヒント `number` のセッターの可視性を `private` にしよう 
+1. `MainActivity.kt` で`counter.number += 1`を書いたらどんなエラーが表示されるか確認しよう
+1. `private` （可視性修飾子）の意味を調べてみよう
+1. エラーの原因を説明してみよう
 
 ### サンプルコードと解説
-[Lv. 5 はこちら！]()
-
-## Lv.? 可視性修飾子`private`について
-🚨 工事中
-
-## Lv.? companion objectについて
-companion objectを利用して、生成した`Counter`インスタンスの数を数えよう
-🚨 工事中
+[Lv. 5 はこちら！](https://github.com/Kaito-Dogi/android-school-checkwork-count-custom-class)
 
 ## Ex. 1 クロージャを利用してみよう
 
