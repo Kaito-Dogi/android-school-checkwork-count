@@ -65,7 +65,8 @@ https://user-images.githubusercontent.com/49048577/148216535-119af68a-3af1-432f-
 
 ### 手順2
 1. `number` の初期値を好きなように代入できるようにしよう
-1. `number` の値を更新するメソッドを定義しよう
+1.  - ヒント：プライマリコンストラクタを調べてみよう
+1. `number` の値を更新するメソッド `incr()` を定義しよう
 1. 定義したメソッドを呼び出して、 `number` の値を更新しよう
 1. 手順3に移ろう！
 
@@ -75,7 +76,7 @@ https://user-images.githubusercontent.com/49048577/148216535-119af68a-3af1-432f-
 
 ### 手順4
 1. `number` 値を直接変更できないようにしよう
-    - ヒント `number` のセッターの可視性を `private` にしよう 
+    - ヒント： `number` のセッターの可視性を `private` にしよう 
 1. `MainActivity.kt` で`counter.number += 1`を書いたらどんなエラーが表示されるか確認しよう
 1. `private` （可視性修飾子）の意味を調べてみよう
 1. エラーの原因を説明してみよう
@@ -94,7 +95,7 @@ https://user-images.githubusercontent.com/49048577/148216535-119af68a-3af1-432f-
 ### サンプルコードと解説
 [Ex. 1 はこちら！]()
 
-## Ex. 2 MVVMを導入してみよう
+## Ex. 2 データバインディングを導入してみよう
 
 ### アプリのスクショ
 スクショ
