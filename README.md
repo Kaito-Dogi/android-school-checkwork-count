@@ -71,7 +71,8 @@ https://user-images.githubusercontent.com/49048577/148216535-119af68a-3af1-432f-
 1. 手順3に移ろう！
 
 ### 手順3
-1. `companion object` を用いて、生成した `Counter` インスタンスの数を数えよう
+1. `companion object` で `number` プロパティを宣言して、生成した `Counter` インスタンスの数を数えよう
+1. `Counter` クラスをインスタンス化する時に、 `number` プロパティの値を `Logcat` に出力しよう
 1. 手順4に移ろう！
 
 ### 手順4
