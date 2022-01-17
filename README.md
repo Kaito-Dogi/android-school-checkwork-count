@@ -85,7 +85,7 @@ https://user-images.githubusercontent.com/49048577/148216535-119af68a-3af1-432f-
 ### サンプルコードと解説
 [Lv. 5 はこちら！](https://github.com/Kaito-Dogi/android-school-checkwork-count-custom-class)
 
-## Ex. 1 クロージャを利用してみよう
+## Ex. 1 画面が回転しても数えた数字を保持できるようにしよう
 
 ### アプリのスクショ
 スクショ
@@ -117,3 +117,14 @@ https://user-images.githubusercontent.com/49048577/148216535-119af68a-3af1-432f-
 
 ### サンプルコードと解説
 [Ex. 3 はこちら！]()
+
+## Ex. 4 クロージャを利用してみよう
+
+### アプリのスクショ
+スクショ
+
+### 手順
+🚨 工事中
+
+### サンプルコードと解説
+[Ex. 4 はこちら！]()
