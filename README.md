@@ -105,7 +105,7 @@ https://user-images.githubusercontent.com/49048577/148216535-119af68a-3af1-432f-
 🚨 工事中
 
 ### サンプルコードと解説
-[Ex. 2 はこちら！]()
+[Ex. 2 はこちら！](https://github.com/Kaito-Dogi/android-school-checkwork-count-data-binding)
 
 ## Ex. 3 Jetpack Composeを利用してみよう
 
